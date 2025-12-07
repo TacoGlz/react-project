@@ -39,7 +39,7 @@ class Api {
   }
 }
 
-const api = new Api("https://api-requests-lcy6.onrender.com", {
+const api = new Api("https://dw-9a.onrender.com", {
   "Content-Type": "application/json",
 });
 
